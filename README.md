@@ -10,3 +10,12 @@ I am a Biologist transitioning into the world of Machine Learning and Software E
 ---
 *“The same methodical observation used in ecology is what I apply to debugging and optimizing code."*
 [Link for my LinkedIn] (https://www.linkedin.com/in/fernanda-lima) 
+
+
+### 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas de Fernanda](https://github-readme-stats.vercel.app/api?username=fernanda45659&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda45659&layout=compact&theme=radical)
+
+
